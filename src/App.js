@@ -1,7 +1,6 @@
 import style from './App.module.scss';
-import "bootstrap/dist/css/bootstrap.min.css"
 // import Button from 'react-bootstrap/Button';
-import FormFill from './components/formfill';
+import FormFill from "./components/components/NewContact"
 // import { useSelector, useDispatch } from 'react-redux';
 
 
